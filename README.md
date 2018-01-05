@@ -42,6 +42,10 @@ $ cd Ionic3-proyect
 Ionic3-proyect$ ionic serve
 ```
 
+## Contactos
 
+* juan3839@hotmail.com
+* jsulbaranjose@gmail.com
+* jsulbaran@cenditel.gob.ve
 
 
